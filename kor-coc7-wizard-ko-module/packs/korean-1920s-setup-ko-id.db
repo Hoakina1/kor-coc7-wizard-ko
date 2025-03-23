@@ -1,0 +1,45 @@
+{"name": "회계", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.회계", "lang": "ko", "priority": 99, "skillName": "회계", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "인류학", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.인류학", "lang": "ko", "priority": 99, "skillName": "인류학", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "감정", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.감정", "lang": "ko", "priority": 99, "skillName": "감정", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "고고학", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.고고학", "lang": "ko", "priority": 99, "skillName": "고고학", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "예술/공예", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.예술/공예", "lang": "ko", "priority": 99, "skillName": "예술/공예", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "매혹", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.매혹", "lang": "ko", "priority": 99, "skillName": "매혹", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "등반", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.등반", "lang": "ko", "priority": 99, "skillName": "등반", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "신용 평판", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.신용 평판", "lang": "ko", "priority": 99, "skillName": "신용 평판", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "크툴루 신화", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.크툴루 신화", "lang": "ko", "priority": 99, "skillName": "크툴루 신화", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "변장", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.변장", "lang": "ko", "priority": 99, "skillName": "변장", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "회피", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.회피", "lang": "ko", "priority": 99, "skillName": "회피", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "자동차 운전", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.자동차 운전", "lang": "ko", "priority": 99, "skillName": "자동차 운전", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "전기 수리", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.전기 수리", "lang": "ko", "priority": 99, "skillName": "전기 수리", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "속임수", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.속임수", "lang": "ko", "priority": 99, "skillName": "속임수", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "격투", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.격투", "lang": "ko", "priority": 99, "skillName": "격투", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "투척", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.투척", "lang": "ko", "priority": 99, "skillName": "투척", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "화기(권총)", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.화기(권총)", "lang": "ko", "priority": 99, "skillName": "화기(권총)", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "화기(장총)", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.화기(장총)", "lang": "ko", "priority": 99, "skillName": "화기(장총)", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "응급처치", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.응급처치", "lang": "ko", "priority": 99, "skillName": "응급처치", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "역사", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.역사", "lang": "ko", "priority": 99, "skillName": "역사", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "위협", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.위협", "lang": "ko", "priority": 99, "skillName": "위협", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "도약", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.도약", "lang": "ko", "priority": 99, "skillName": "도약", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "언어(모국어)", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.언어(모국어)", "lang": "ko", "priority": 99, "skillName": "언어(모국어)", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "언어(기타)", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.언어(기타)", "lang": "ko", "priority": 99, "skillName": "언어(기타)", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "법률", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.법률", "lang": "ko", "priority": 99, "skillName": "법률", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "도서관 이용", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.도서관 이용", "lang": "ko", "priority": 99, "skillName": "도서관 이용", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "듣기", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.듣기", "lang": "ko", "priority": 99, "skillName": "듣기", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "자물쇠 따기", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.자물쇠 따기", "lang": "ko", "priority": 99, "skillName": "자물쇠 따기", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "기계 수리", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.기계 수리", "lang": "ko", "priority": 99, "skillName": "기계 수리", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "의료", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.의료", "lang": "ko", "priority": 99, "skillName": "의료", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "자연", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.자연", "lang": "ko", "priority": 99, "skillName": "자연", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "항법", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.항법", "lang": "ko", "priority": 99, "skillName": "항법", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "오컬트", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.오컬트", "lang": "ko", "priority": 99, "skillName": "오컬트", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "설득", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.설득", "lang": "ko", "priority": 99, "skillName": "설득", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "조종", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.조종", "lang": "ko", "priority": 99, "skillName": "조종", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "정신분석", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.정신분석", "lang": "ko", "priority": 99, "skillName": "정신분석", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "심리학", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.심리학", "lang": "ko", "priority": 99, "skillName": "심리학", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "탈것 타기", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.탈것 타기", "lang": "ko", "priority": 99, "skillName": "탈것 타기", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "과학", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.과학", "lang": "ko", "priority": 99, "skillName": "과학", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "손놀림", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.손놀림", "lang": "ko", "priority": 99, "skillName": "손놀림", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "탐색", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.탐색", "lang": "ko", "priority": 99, "skillName": "탐색", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "은밀행동", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.은밀행동", "lang": "ko", "priority": 99, "skillName": "은밀행동", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "생존술", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.생존술", "lang": "ko", "priority": 99, "skillName": "생존술", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "수영", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.수영", "lang": "ko", "priority": 99, "skillName": "수영", "description": {"value": ""}, "base": "1", "bonusDice": 0}}
+{"name": "추적", "type": "skill", "img": "icons/svg/book.svg", "system": {"id": "기능.추적", "lang": "ko", "priority": 99, "skillName": "추적", "description": {"value": ""}, "base": "1", "bonusDice": 0}}

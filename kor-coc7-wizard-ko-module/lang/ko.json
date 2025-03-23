@@ -1,0 +1,17 @@
+{
+  "CoC7.Wizard.title": "조사자 생성 마법사",
+  "CoC7.Wizard.step.occupation": "직업 선택",
+  "CoC7.Wizard.step.skills": "기술 설정",
+  "CoC7.Wizard.step.attributes": "능력치 설정",
+  "CoC7.Wizard.step.backstory": "배경 이야기",
+  "CoC7.Wizard.step.review": "요약 확인",
+  "CoC7.Wizard.start": "시작하기",
+  "CoC7.Wizard.finish": "완료",
+  "CoC7.Wizard.cancel": "취소",
+  "CoC7.Wizard.next": "다음",
+  "CoC7.Wizard.previous": "이전",
+  "CoC7.Wizard.selectOccupation": "직업을 선택하세요",
+  "CoC7.Wizard.selectEra": "시대 설정을 선택하세요",
+  "CoC7.Wizard.customizeSkills": "기술을 자유롭게 배분하세요",
+  "CoC7.Wizard.enterDetails": "조사자의 세부 정보를 입력하세요"
+}

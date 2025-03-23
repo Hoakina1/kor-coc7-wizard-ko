@@ -1,0 +1,39 @@
+{
+  "name": "kor-coc7-wizard-module-final",
+  "title": "CoC7 위자드용 한국어 직업/기술/시대 모듈",
+  "description": "Call of Cthulhu 7판 Investigator Wizard에서 사용할 수 있는 한국어 기술, 직업, 시대 설정 모듈입니다.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "author": "사용자",
+  "packs": [
+    {
+      "name": "translated-korean-skills-ko",
+      "label": "한글 기술 모음",
+      "path": "packs/translated-korean-skills-ko.db",
+      "type": "Item",
+      "system": "coc7"
+    },
+    {
+      "name": "fully-translated-occupations-ko",
+      "label": "한글 직업 모음",
+      "path": "packs/fully_translated_occupations_ko.db",
+      "type": "Item",
+      "system": "coc7"
+    },
+    {
+      "name": "korean-1920s-setup-ko-id",
+      "label": "한글 1920s 세팅",
+      "path": "packs/korean-1920s-setup-ko-id.db",
+      "type": "Item",
+      "system": "coc7"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "ko",
+      "name": "한국어",
+      "path": "lang/ko.json"
+    }
+  ]
+}
